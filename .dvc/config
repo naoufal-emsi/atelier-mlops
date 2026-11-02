@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = ../../dvc-storage
+    url = /home/school/Documents/5.1/02-MLOps/03-TPs/TP4/dvc-storage
