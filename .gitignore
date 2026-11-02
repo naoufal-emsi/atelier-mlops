@@ -1,7 +1,6 @@
-__pycache__/ 
-*.pyc 
-venv/ 
-.venv/ 
-mlruns/ 
-mlflow.db 
-models/
+__pycache__/
+*.pyc
+venv/
+.venv/
+mlruns/
+mlflow.db
